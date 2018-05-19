@@ -2,9 +2,9 @@
   "name": "xmrpoolui",
   "private": true,
   "dependencies": {
-    "angular": "~1.6.10",
-    "angular-route": "~1.6.10",
-    "angular-loader": "~1.6.10",
+    "angular": "~1.7.0",
+    "angular-route": "~1.7.0",
+    "angular-loader": "~1.7.0",
     "jquery": "~3.3.1",
     "angular-material": "~1.1.9",
     "angular-moment": "~1.2.0",
@@ -18,6 +18,6 @@
     "angular_page_visibility": "angular-page-visibility#^0.0.4"
   },
   "resolutions": {
-    "angular": "~1.6.10"
+    "angular": "~1.7.0"
   }
 }
