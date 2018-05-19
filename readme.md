@@ -1,6 +1,6 @@
 # Monero Pool frontend
 
-### AngularJS based UI for [nodejs-pool](https://github.com/Snipa22/nodejs-pool)
+### AngularJS based UI for [nodejs-pool](https://github.com/mxjoe/nodejs-pool)
 
 ### Features
 - See your hashrate on all pages
